@@ -26,8 +26,9 @@
     font-style: italic;
     font-size: small;
 }
-/* 
-.image-size{
-    height: auto;
-    width: auto;
-} */
+
+.news-article{
+    font-family: 'Slabo 27px', serif;
+    font-weight:bold ;
+
+}

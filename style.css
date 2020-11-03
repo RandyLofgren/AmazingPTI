@@ -1,0 +1,24 @@
+.big-bold{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+.sm-bold{
+    
+    font-weight: 450 
+}
+
+.md-bold{
+    font-size:20px;
+    font-weight:bold
+}
+
+
+.basker{
+    font-family: 'Libre Baskerville', serif;
+}
+.slabo{
+    font-family: 'Slabo 27px', serif;
+}
+

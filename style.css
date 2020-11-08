@@ -43,7 +43,7 @@ body{
 }
 
 .footer-holder{
-    border: 1px solid teal
+    border-top: 1px solid teal
 }
 .footer-content{
     display: flex;
@@ -63,10 +63,10 @@ body{
     width: 100%;
     text-align: center;
     position: absolute;
-    bottom: 0px;
+    bottom: -20px;
     left: 0px;
-    padding-top: 20px;
-    border-top: 1px solid teal;
+    /* padding-top: 20px; */
+    /* border-top: 1px solid teal; */
 
 }
 .footer-section{

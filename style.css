@@ -89,3 +89,8 @@ body{
     color: rgb(100, 99, 99);
     font-weight: bold;
 }
+
+.list-item{
+    font-family: 'Slabo 31px', serif;
+    font-weight: bold;
+}

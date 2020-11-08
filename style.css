@@ -14,6 +14,15 @@
     font-weight:bold
 }
 
+html,
+body{
+    height: 100%;
+    
+
+}
+.container{
+    min-height: 100%;
+}
 
 .basker{
     font-family: 'Libre Baskerville', serif;
@@ -31,4 +40,52 @@
     font-family: 'Slabo 27px', serif;
     font-weight:bold ;
 
+}
+
+.footer-holder{
+    border: 1px solid teal
+}
+.footer-content{
+    display: flex;
+    height: 350px;
+}
+
+.footer{
+    background: #3d3f42 ;
+    color: azure;
+    height: 400px;
+    position: relative;
+}
+.footer .footer-bottom{
+    background:#2f2f30;
+    color:#565659;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    padding-top: 20px;
+    border-top: 1px solid teal;
+
+}
+.footer-section{
+    flex: 1;
+    padding: 25px;
+    /* border: 1px solid white; */
+}
+.logo{
+    align-content: center;
+    margin: auto;
+}
+
+.logo-text{
+    
+    color: black;
+}
+
+.sponsors{
+    font-size: 50px;
+    color: rgb(100, 99, 99);
+    font-weight: bold;
 }

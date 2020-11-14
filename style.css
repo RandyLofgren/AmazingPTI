@@ -16,7 +16,7 @@
 
 html,
 body{
-    height: 100%;
+    min-height: 100vh;
     
 
 }
@@ -47,7 +47,8 @@ body{
 }
 .footer-content{
     display: flex;
-    height: 350px;
+    /* height: 350px; */
+    height: 100%;
 }
 
 .footer{

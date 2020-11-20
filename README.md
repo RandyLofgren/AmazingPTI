@@ -1,5 +1,8 @@
 # AmazingPTI
 
+## A fun side project I created to manage the Platform Tennis League I run
+
+### I will continue to update this and increase functionality as I learn
 
 
 

@@ -96,3 +96,22 @@ body{
     font-family: 'Slabo 31px', serif;
     font-weight: bold;
 }
+
+.opener{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Slabo 27px', serif;
+}
+
+.openertwo{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Slabo 24px', serif;
+    font-style:italic ;
+}
+.match-up{
+    font-size:17px;
+    font-family: 'Slabo 27px', serif;
+    
+    
+}
